@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="background" val="60b263"/>
+  <VALUE name="highlight" val="fff9ff"/>
+  <VALUE name="shadow" val="00007d"/>
+  <VALUE name="wave" val="4ba9d4"/>
+  <VALUE name="wave_background" val="00004a"/>
+  <VALUE name="logo" val="000000"/>
+  <VALUE name="slices" val="ff0000"/>
+  <VALUE name="startEnd" val="cd71d7"/>
+  <VALUE name="loop" val="eaff00"/>
+  <VALUE name="parameter_text" val="000000"/>
+  <VALUE name="scale" val="2.400000095367432"/>
+  <VALUE name="zerocross" val="1"/>
+  <VALUE name="sample-directory" val="/Users/mik-rzo"/>
+  <VALUE name="theme-directory" val="/Users/mik-rzo"/>
+  <VALUE name="max-sample-cache" val="0"/>
+  <VALUE name="sample-load-speed" val="10"/>
+</PROPERTIES>
